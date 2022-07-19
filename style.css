@@ -1,0 +1,48 @@
+body{
+    background-image: url(./assets/gym-equipments-fitness-club_23-2147949744.webp);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+#con-wt-us{
+    font-size: 25px;
+    color: green;
+}
+
+ul{
+    width: 35vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: transparent;
+}
+.nav-link{
+    color: whitesmoke;
+}
+.rate-us{
+    color: green;
+}
+/* #img-gallery{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+    height: auto;
+} */
+.weight-plate-img{
+ max-width: 100%;
+}
+h1{
+    color: red;
+}
+h2{
+    color: white;
+}
+.wt-des{
+    font-size: 25px;
+    color: whitesmoke;
+}
+.prices{
+    font-size: 20px;
+    color: aqua;
+}
